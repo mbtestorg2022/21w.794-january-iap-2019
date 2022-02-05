@@ -48,10 +48,58 @@ The presentations should be no more than 12 minutes and will take place during W
 
 This assignment gives you the opportunity to investigate a genre in your field (using 3–5 examples) that you are likely to produce as a graduate student or professional, and then to teach its features to your classmates. Some examples of genres that you could investigate are:
 
-| Grant proposal | Slide presentation | Literature review |
-| Conference abstract | Design document | MA or PhD thesis |
-| Research poster | Technical memo | Job letter |
-| Journal article   | Elevator pitch | Research / Teaching statement  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grant proposal
+{{< tdclose >}}
+{{< tdopen >}}
+Slide presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Literature review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Conference abstract
+{{< tdclose >}}
+{{< tdopen >}}
+Design document
+{{< tdclose >}}
+{{< tdopen >}}
+MA or PhD thesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research poster
+{{< tdclose >}}
+{{< tdopen >}}
+Technical memo
+{{< tdclose >}}
+{{< tdopen >}}
+Job letter
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal article  
+{{< tdclose >}}
+{{< tdopen >}}
+Elevator pitch
+{{< tdclose >}}
+{{< tdopen >}}
+Research / Teaching statement
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+ 
 
 As you choose which genre to investigate, consider practical issues of how you will collect and analyze data (your 3–5 examples)—texts will be easier to access, most likely, than oral genres, and published texts will be easier to access than private ones. However, you may be able to ask advisors or others in your field or lab for examples of unpublished genres, for this purpose.
 

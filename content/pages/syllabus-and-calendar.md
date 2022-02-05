@@ -54,16 +54,129 @@ Both as a student in this class, and at any point during your time at MIT, you m
 Calendar
 --------
 
-| SES # | TOPICS | DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week One**{{< /td-colspan >}} |||
-| 1 | Genre; rhetorical situations; abstracts; stasis theory | &nbsp; |
-| 2 | Information management; academic integrity and the use of sources; paraphrasing | &nbsp; |
-| {{< td-colspan 3 >}}**Week Two**{{< /td-colspan >}} |||
-| 3 | Synthesizing and structuring information; discourse analysis | &nbsp; |
-| 4 | Genre analysis; rhetorical moves; metadiscourse | Draft of literature review due at end of week; email copies to members of your peer group |
-| {{< td-colspan 3 >}}**Week Three**{{< /td-colspan >}} |||
-| 5 | Peer review of literature review drafts; concision and coherence; presenting | &nbsp; |
-| {{< td-colspan 3 >}}**Week Four**{{< /td-colspan >}} |||
-| 6 | Presentation of genre analysis | &nbsp; |
-| 7 | Presentation of genre analysis | Revision of literature review due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week One**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Genre; rhetorical situations; abstracts; stasis theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Information management; academic integrity and the use of sources; paraphrasing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week Two**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesizing and structuring information; discourse analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Genre analysis; rhetorical moves; metadiscourse
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of literature review due at end of week; email copies to members of your peer group
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week Three**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Peer review of literature review drafts; concision and coherence; presenting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week Four**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of genre analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of genre analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Revision of literature review due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
